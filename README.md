@@ -1,4 +1,4 @@
 # semurhabana.github.io
 Website
 
-Homepage: [./homepage.html Homepage]
+Homepage: [Homepage](./homepage.html)
